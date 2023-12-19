@@ -3,9 +3,8 @@
   "compilerOptions": {
     "outDir": "build",
     "target": "ES6",
-    "lib": ["es6", "dom"],
-    "allowJs": true,
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "module": "CommonJS"
   }
 }
